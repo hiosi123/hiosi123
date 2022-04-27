@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: perfectness -->
 <!-- - ⚡ Fun fact: alwaying eating -->
 
+<h2> 👑 My tech stack 👑 <h2>
+  
+https://img.shields.io/badge/javascript-javascript-yellow
 
