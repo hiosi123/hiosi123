@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **hiosi123/hiosi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tls1641@gmail.com
 - 😄 Pronouns: perfectness
 - ⚡ Fun fact: alwaying eating
--->
 
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
