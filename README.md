@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: perfectness
 - ⚡ Fun fact: alwaying eating
 -->
+
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
